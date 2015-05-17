@@ -8,7 +8,7 @@ weaving the internet &
 unweaving its alien mask  
  
 would the web hold us  
-differently. could the web  
+differently could the web  
 bring us warmth   
 not yet imagined  
 
