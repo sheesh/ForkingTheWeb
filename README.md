@@ -23,7 +23,7 @@ the web it pushes and pins
 their love into something else’s stomach  
 
 these are poems for all of the users  
-the smallest of users, the quietest   
+the smallest of users the quietest   
 and most ignorant of users  
 whose use is used to grow the   
 mighty screen which  
@@ -36,8 +36,8 @@ they will not try at beauty
 they are hardly even poems  
 just warm and urgent invitations  
 to take part of what is closed in  
-darkness needing  
-the tilling of every last user  
+darkness needing the   
+tilling of every last user  
 
 to fruit its joy   
 is everyone’s  
