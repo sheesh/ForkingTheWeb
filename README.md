@@ -27,9 +27,8 @@ the smallest of users, the quietest
 and most ignorant of users  
 whose use is used to grow the   
 mighty screen which  
-coats and divvies the  
-world  
-keeping our eyes  
+coats the world  
+and divvies our eyes  
 from meeting  
 
 these are poems for beginners  
@@ -55,9 +54,10 @@ as their true fate
 ####ForkingTheWeb/4
 forking is   
 when you take  
-what someone made  
-and modify it  
-for your own   
+how someone made
+the world and 
+modify it for 
+your own   
 purpose  
 
 it is a liberty  
@@ -71,9 +71,8 @@ the needs of
 others   
 
 those who  
-would are  
-not only tyrants  
-they deprive  
+would are
+tyrants depriving  
 even themselves  
 from whom  
 they know not  
