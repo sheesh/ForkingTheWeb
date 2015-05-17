@@ -54,8 +54,8 @@ as their true fate
 ####ForkingTheWeb/4
 forking is   
 when you take  
-how someone made
-the world and 
+how someone made  
+the world and  
 modify it for 
 your own   
 purpose  
