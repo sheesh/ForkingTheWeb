@@ -9,8 +9,8 @@ unweaving its alien mask
  
 would the web hold us  
 differently could the web  
-bring us warmth   
-not yet imagined  
+bring us warmth not    
+yet imagined    
 
 
 
