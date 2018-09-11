@@ -28,7 +28,7 @@ and most ignorant of users
 whose use is used to grow the   
 mighty screen which  
 coats the world  
-and divvies our eyes  
+and keeps our eyes  
 from meeting  
 
 these are poems for beginners  
@@ -51,7 +51,8 @@ and learn how to be very close
 deeply caring for one another  
 as their true fate  
 
-####ForkingTheWeb_4
+#### ForkingTheWeb_4
+
 forking is   
 when you take  
 how someone made  
