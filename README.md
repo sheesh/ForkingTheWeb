@@ -1,6 +1,6 @@
-#Forking the Web
+# Forking the Web
 
-####ForkingTheWeb/1
+#### ForkingTheWeb_1
 
 imagine sitting in a room  
 with one hundred women  
@@ -15,7 +15,7 @@ yet imagined
 
 
 
-####ForkingTheWeb/2
+#### ForkingTheWeb_2
 
 these are poems for opening the web  
 these are poems for helping the user take control  
@@ -44,14 +44,14 @@ is everyone’s
 
 
 
-####ForkingTheWeb/3  
+#### ForkingTheWeb_3  
 
 the expert and the novice must sit down  
 and learn how to be very close  
 deeply caring for one another  
 as their true fate  
 
-####ForkingTheWeb/4
+####ForkingTheWeb_4
 forking is   
 when you take  
 how someone made  
@@ -83,7 +83,7 @@ are
 
 
 
-####ForkingTheWeb/5
+#### ForkingTheWeb_5
 
 what is the web? you know this already  
 but on a test or in front of the expert?  
